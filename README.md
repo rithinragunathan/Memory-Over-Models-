@@ -16,7 +16,7 @@ We utilized Qdrant Cloud to store the text chunks of the resource guide.
 2. We used a Cosine distance metric for similarity search.
 3. The `qdrant-client` python library manages the connection and vector retrieval.
 
-## [cite_start]Setup Instructions 
+## Setup Instructions 
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file with `QDRANT_URL`, `QDRANT_API_KEY`, and `OPENAI_API_KEY`.
