@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+qdrant-client
+openai
+python-dotenv
+streamlit
+pypdf
+fastembed
+requests
